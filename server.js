@@ -18,7 +18,7 @@ connectDB();
 //rest object
 const app = express();
 
-middelwares
+// middelwares
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 app.use(cors());
